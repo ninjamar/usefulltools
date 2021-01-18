@@ -2,7 +2,7 @@ from distutils.core import setup
 setup(
   name = 'usefulltools',
   author_email = 'example@example.com',
-  version = '0.0.8',
+  version = '0.1.4',
   classifiers = [
       "Programming Language :: Python :: 3",
   ],
